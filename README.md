@@ -1,6 +1,11 @@
 # Calculator
 
-A new Flutter application.
+Una vez ejecutada, la app debería de verse así:
+
+![](https://github.com/conbdevaca/Calculator/blob/master/screenshot.png)
+
+Fuente original: https://www.youtube.com/watch?v=l4bLPfS1uik
+
 
 ## Getting Started
 
